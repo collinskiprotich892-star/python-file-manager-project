@@ -4,7 +4,7 @@
 
 This project consists of two Python automation tools:
 
-### 1️⃣ file_manager.py
+### 1️ file_manager.py
 
 A complete file-handling utility that automates:
 
@@ -16,7 +16,7 @@ A complete file-handling utility that automates:
 -   Logging\
 -   Optional file deletion
 
-### 2️⃣ students_report.py
+### 2️ students_report.py
 
 A data-processing script that handles:
 
